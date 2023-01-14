@@ -35,7 +35,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 #include <button.h>
 
 // The GPIO pin that is connected to the relay on the Sonoff Dual R2
-const int relay0_gpio = 12;
+const int relay0_gpio = 14;//12
 const int relay1_gpio = 5;
 // The GPIO pin that is connected to the LED on the Sonoff Dual R2
 const int led_gpio = 13;
